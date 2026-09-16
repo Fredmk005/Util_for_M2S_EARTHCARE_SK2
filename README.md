@@ -1,0 +1,1 @@
+Scripts for simulating radiance in the SHOW instrument band, with cloud data from earthcare and H2O data from MERRA2 SCREAM, along with helpers to extract relevant data from locally installed databases
